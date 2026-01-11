@@ -1,1 +1,1 @@
-latihan membuat web ceterkan lampu dengan html, javascript, dan styling menggunakan tailwindcss 
+latihan membuat web ceterkan lampu menggunakan html, javascript, dan styling tailwindcss 
